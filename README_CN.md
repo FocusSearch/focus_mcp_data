@@ -22,8 +22,8 @@
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/stefans71/focus-mcp-data.git
-cd focus-mcp-data
+git clone https://github.com/FocusSearch/focus_mcp_data.git
+cd focus_mcp_data
 ```
 
 2. Build the server:
