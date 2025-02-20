@@ -152,3 +152,6 @@ All tools return responses in the following format:
       ![Initialize dialogue](./focus_mcp_data_init.png)
    3. query: what is the sum salary
      ![query](./focus_mcp_data_data.png)
+
+## Contact：
+[https://discord.gg/TUahEW2C](https://discord.gg/TUahEW2C)
