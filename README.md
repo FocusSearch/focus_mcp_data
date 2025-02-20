@@ -10,14 +10,15 @@ obtain data results in natural language.
 
 ## Prerequisites
 
-- jdk 23 or higher
-- gradle 8.12 or higher
-- register [Datafocus](https://www.datafocus.ai/) to obtain bearer token: 
-    1. Register an account
-    2. Create an application
+- jdk 23 or higher. Download [jdk](https://www.oracle.com/java/technologies/downloads/)
+- gradle 8.12 or higher. Download [gradle](https://gradle.org/install/)
+- register [Datafocus](https://www.datafocus.ai/) to obtain bearer token:
+  1. Register an account in [Datafocus](https://www.datafocus.ai/)
+  2. Create an application
     3. Enter the application
     4. Admin -> Interface authentication -> Bearer Token -> New Bearer Token
-
+       ![bearer token](bearer_token.png)
+  
 ## Installation
 
 1. Clone this repository:
@@ -126,8 +127,6 @@ Query data results.
 
 All tools return responses in the following format:
 
-### Success Response
-
 ```json
 {
   "errCode": 0,
@@ -140,15 +139,16 @@ All tools return responses in the following format:
 }
 ```
 
-### Error Response
+## Visual Studio Code Cline Sample
 
-```json
-{
-  "errCode": 1001,
-  "exception": "",
-  "msgParams": null,
-  "promptMsg": null,
-  "success": false,
-  "data": null
-}
-```
+1. vsCode install cline plugin
+2. mcp server config
+   ![config mcp server](./mcp_server_config.png)
+3. use
+   1. get table list
+      ![get table list1](./focus_mcp_data_table_1.png)
+      ![get table list2](./focus_mcp_data_table_2.png)
+   2. Initialize dialogue
+      ![Initialize dialogue](./focus_mcp_data_init.png)
+   3. query: what is the sum salary
+     ![query](./focus_mcp_data_data.png)
