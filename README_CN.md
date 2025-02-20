@@ -147,5 +147,5 @@ gradle bootJar
        ![获取表列表](./focus_mcp_data_table_cn.png)
     2. 初始化
        ![初始化](./focus_mcp_data_init_cn.png)
-    3. 查询:age的最大值是多少
-       ![查询](./focus_mcp_data_data.png)
+    3. 查询数据：销售金额的总和是多少
+       ![查询](./focus_mcp_data_data_cn.png)
