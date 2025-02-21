@@ -1,10 +1,10 @@
 # FOCUS DATA MCP Server [[中文](./README_CN.md)]
 
-A Model Context Protocol (MCP) server enables artificial intelligence assistants to directly query data results. Users
-obtain data results in natural language.
+A Model Context Protocol (MCP) server enables artificial intelligence assistants to directly query data results. Users can obtain data results from DataFocus using natural language.
 
 ## Features
 
+-  Register on DataFocus to open an application space, and import (directly connect to) the data tables to be analyzed.
 - Select Datafocus data table initialization dialogue
 - Natural language data acquisition results
 
