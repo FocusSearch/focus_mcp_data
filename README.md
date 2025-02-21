@@ -155,3 +155,4 @@ All tools return responses in the following format:
 
 ## Contact：
 [https://discord.gg/TUahEW2C](https://discord.gg/TUahEW2C)
+![Datafocus](./wechat-qrcode.png)
