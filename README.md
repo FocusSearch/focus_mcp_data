@@ -154,5 +154,5 @@ All tools return responses in the following format:
      ![query](./focus_mcp_data_data.png)
 
 ## Contact：
-[https://discord.gg/TUahEW2C](https://discord.gg/TUahEW2C)
+[https://discord.gg/mFa3yeq9](https://discord.gg/mFa3yeq9)
 ![Datafocus](./wechat-qrcode.png)
